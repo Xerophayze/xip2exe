@@ -1,4 +1,4 @@
-# Self-Extracting EXE Creator
+# Xip2exe Self-Extracting EXE Creator
 
 A Python application that creates self-extracting executables from ZIP files with customizable extraction and execution options.
 
